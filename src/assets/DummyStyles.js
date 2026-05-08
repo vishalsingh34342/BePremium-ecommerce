@@ -185,7 +185,7 @@ export default cartPageStyles;
 
 export const categoriesHomeStyles = {
   // Layout
-  section: "min-h-screen bg-gradient-to-br from-gray-50 to-white py-12 px-4",
+  section: " bg-gradient-to-br from-gray-50 to-white py-12 px-4",
   container: "max-w-7xl mx-auto",
   
   // Header
@@ -333,7 +333,7 @@ export { contactPageStyles };
 
 export const watchOfferBannerStyles = {
   // Layout
-  container: "min-h-screen -mx-2 xl:-mx-0 md:-mx-0 flex items-center justify-center bg-gradient-to-br from-gray-50 to-gray-100 p-4",
+  container: " -mx-2 xl:-mx-0 md:-mx-0 flex items-center justify-center bg-gradient-to-br from-gray-50 to-gray-100 p-4",
   maxWidthContainer: "max-w-6xl w-full",
   
   // Banner
