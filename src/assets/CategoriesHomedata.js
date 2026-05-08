@@ -6,7 +6,7 @@ import PatekPhilippe from "./PatekPhilippe.jpg"
 import Cartier from "./Cartier.jpg"
 import Brietling from "./Brietling.jpg"
 import IWC from "./IWC.jpg"
-import Hublot from "./HuBLOT.jpg"
+import HHublot from "./HHublot.jpg"
 import TagHeuer from "./TagHeuer.jpg"
 import JaegerLeCoultre from "./JaegerLeCoultre.jpg"
 const brands = [
@@ -17,7 +17,7 @@ const brands = [
   { id: 5, name: "Cartier", slug: "cartier", image: Cartier, link: "/brands/cartier" },
   { id: 6, name: "Breitling", slug: "breitling", image: Brietling, link: "/brands/breitling" },
   { id: 7, name: "IWC", slug: "iwc", image: IWC, link: "/brands/iwc" },
-  { id: 8, name: "Hublot", slug: "hublot", image: Hublot, link: "/brands/hublot" },
+  { id: 8, name: "hublot", slug: "hublot", image: HHublot, link: "/brands/hublot" },
   { id: 9, name: "Tag Heuer", slug: "tag-heuer", image: TagHeuer, link: "/brands/tag-heuer" },
   { id: 10, name: "Jaeger-LeCoultre", slug: "jaeger-lecoultre", image:JaegerLeCoultre, link: "/brands/jaeger-lecoultre" },
 ];
